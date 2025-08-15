@@ -1,3 +1,11 @@
+/*move all zeroes to the end.
+union of two sorted arrays
+insertion of two sorted arrays
+longest subarray with sum k
+Dutch national flag
+majority element
+Kadane's Algorithm (Max Subarray Sum)*/
+
 #include <iostream>
 #include<vector>
 #include<unordered_map>
@@ -187,3 +195,4 @@ int main(){
 }
 //TC: O(n)
 //SC: O(1)
+
